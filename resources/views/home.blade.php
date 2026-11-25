@@ -431,12 +431,12 @@ footer {
         @php
         $teams = [
             ['Tim Kerja Pemetaan Usaha dan Investasi', 'map-pinned', '#edf1fc', '#526da8', '/pemetaan-usaha'],
-            ['Tim Kerja Kewirausahaan', 'lightbulb', '#f0eafe', '#8768bb', '/tim-kerja/kewirausahaan'],
-            ['Tim Kerja Kurasi Usaha', 'badge-check', '#e2f6ed', '#399775', '/tim-kerja/kurasi-usaha'],
-            ['Tim Kerja Kelembagaan Kemitraan Usaha', 'handshake', '#fff1df', '#c58b42', '/tim-kerja/kelembagaan-kemitraan-usaha'],
-            ['Tim Kerja Literasi Keuangan dan Akses Pembiayaan', 'wallet', '#e7efff', '#526da8', '/tim-kerja/literasi-keuangan'],
-            ['Tim Kerja Perizinan dan Pendampingan Investasi', 'file-check', '#fff0eb', '#c47b67', '/tim-kerja/perizinan-investasi'],
-            ['Subbagian Tata Usaha', 'briefcase-business', '#e9f4f5', '#438b91', '/tim-kerja/tata-usaha'],
+            ['Tim Kerja Kewirausahaan', 'lightbulb', '#f0eafe', '#8768bb', '/kewirausahaan'],
+            ['Tim Kerja Kurasi Usaha', 'badge-check', '#e2f6ed', '#399775', '/kurasi-usaha'],
+            ['Tim Kerja Kelembagaan Kemitraan Usaha', 'handshake', '#fff1df', '#c58b42', '/kelembagaan-kemitraan-usaha'],
+            ['Tim Kerja Literasi Keuangan dan Akses Pembiayaan', 'wallet', '#e7efff', '#526da8', '/literasi-keuangan'],
+            ['Tim Kerja Perizinan dan Pendampingan Investasi', 'file-check', '#fff0eb', '#c47b67', '/perizinan-investasi'],
+            ['Subbagian Tata Usaha', 'briefcase-business', '#e9f4f5', '#438b91', '/tata-usaha'],
         ];
         @endphp
 
